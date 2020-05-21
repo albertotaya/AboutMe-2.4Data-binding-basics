@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alberto_tadashi_yamamoto">Alberto Tadashi Yamamoto</string>
     <dimen name="small_padding">8dp</dimen>
     <dimen name="layout_margin">16dp</dimen>
     <dimen name="layout_padding">16dp</dimen>
